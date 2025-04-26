@@ -1,0 +1,9 @@
+[submodule "ImobiliariaSantos"]
+	path = ImobiliariaSantos
+	url = https://github.com/kanppz/ImobiliariaSantos.git
+[submodule "PadariaPlus"]
+	path = PadariaPlus
+	url = https://github.com/kanppz/PadariaPlus.git
+[submodule "PetBoutique"]
+	path = PetBoutique
+	url = https://github.com/kanppz/PetBoutique.git
