@@ -7,3 +7,6 @@
 [submodule "PetBoutique"]
 	path = PetBoutique
 	url = https://github.com/kanppz/PetBoutique.git
+[submodule "AlphaTech"]
+	path = AlphaTech
+	url = https://github.com/kanppz/AlphaTech.git
